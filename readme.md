@@ -21,3 +21,5 @@ temel-js klasörü
 8- nesneler
 
 9- diziler
+
+10- istisna yönetimi

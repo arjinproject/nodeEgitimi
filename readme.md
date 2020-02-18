@@ -29,3 +29,5 @@ ES6-ornekleri klasörü
 11- let-const
 
 12- template-riterals
+
+13- destructing

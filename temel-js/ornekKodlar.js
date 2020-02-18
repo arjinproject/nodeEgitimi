@@ -35,14 +35,19 @@ if (durum) {
 if (durum2) {
     console.log("Evet açım");
 } else if (durum) {
-console.log("Sana ne");
+    console.log("Sana ne");
 } else {
     console.log("Aç değilim");
 }
 
 
-function topla (a, b) {
+function topla(a, b) {
     console.log(a + b);
 }
 
-topla(2,4);
+topla(2, 4);
+
+var cikarma = function (a, b) {
+    return a - b;
+}
+console.log(cikarma(5, 3));

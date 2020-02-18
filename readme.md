@@ -26,5 +26,6 @@ temel-js klasörü
 
 ES6-ornekleri klasörü
 
-1- let-const
+11- let-const
 
+12- template-riterals

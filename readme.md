@@ -23,3 +23,8 @@ temel-js klasörü
 9- diziler
 
 10- istisna yönetimi
+
+ES6-ornekleri klasörü
+
+1- let-const
+

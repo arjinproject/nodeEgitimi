@@ -46,4 +46,6 @@ temel-js klasörü
 
 19- paket-yukleme
 
-20- 
+20- yerek global paketler
+
+21- 

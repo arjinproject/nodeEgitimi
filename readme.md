@@ -50,4 +50,4 @@ temel-js klasörü
 
 21- script işlemleri ve npm bir alt klasöre kurma
 
-22- 
+22- events oluşturma tetikleme

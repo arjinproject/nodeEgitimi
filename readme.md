@@ -40,4 +40,4 @@ temel-js klasörü
 
 17- async-await yapısı
 
-18- 
+18- modül yazma

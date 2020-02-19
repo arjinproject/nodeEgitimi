@@ -33,3 +33,5 @@ ES6-ornekleri klasörü
 13- destructing
 
 14- Spread operator
+
+15- arrow-functions

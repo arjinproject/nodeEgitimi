@@ -48,4 +48,6 @@ temel-js klasörü
 
 20- yerek global paketler
 
-21- 
+21- script işlemleri ve npm bir alt klasöre kurma
+
+22- 

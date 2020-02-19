@@ -1,0 +1,27 @@
+{
+  "name": "hamitin-paketi",
+  "version": "1.0.0",
+  "description": "##Yer alan başlıklar şu şekildedir",
+  "main": "index.js",
+  "dependencies": {
+    "nodemailer": "^6.4.2",
+    "slugify": "^1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app",
+    "sayHello": "echo 'Merhaba ben Hamit!!' ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjinproject/nodeEgitimi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjinproject/nodeEgitimi/issues"
+  },
+  "homepage": "https://github.com/arjinproject/nodeEgitimi#readme"
+}

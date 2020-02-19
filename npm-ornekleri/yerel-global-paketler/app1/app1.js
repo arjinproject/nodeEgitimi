@@ -12,3 +12,4 @@
 
 const slugify=require("slugify");
 console.log(slugify("Selam nasılsın"));
+

@@ -35,3 +35,7 @@ ES6-ornekleri klasörü
 14- Spread operator
 
 15- arrow-functions
+
+16- promise-yapisi
+
+17- 

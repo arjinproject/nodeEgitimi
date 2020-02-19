@@ -1,6 +1,6 @@
 # Bu projede temel javaScript eğitimi sırasında yazılmış kodlar bulunmaktadır.
 
-Yer alan başlıklar şu şekildedir
+##Yer alan başlıklar şu şekildedir
 
 temel-js klasörü
 
@@ -24,7 +24,7 @@ temel-js klasörü
 
 10- istisna yönetimi
 
-ES6-ornekleri klasörü
+##ES6-ornekleri klasörü
 
 11- let-const
 
@@ -38,4 +38,6 @@ ES6-ornekleri klasörü
 
 16- promise-yapisi
 
-17- 
+17- async-await
+
+18- 

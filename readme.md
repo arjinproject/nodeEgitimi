@@ -31,3 +31,5 @@ ES6-ornekleri klasörü
 12- template-riterals
 
 13- destructing
+
+14- Spread operator

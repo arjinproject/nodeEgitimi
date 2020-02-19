@@ -38,6 +38,6 @@ temel-js klasörü
 
 16- promise-yapisi
 
-17- async-await
+17- async-await yapısı
 
 18- 

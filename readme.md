@@ -67,3 +67,7 @@ temel-js klasörü
 27- create-http-server
 
 28- bir html dosyasını serverden çalıştırmak
+
+29- http istekleri (GET-PORT-PUT-DELETE)
+
+29- basit routing yapısı

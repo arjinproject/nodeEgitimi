@@ -42,6 +42,8 @@ temel-js klasörü
 
 18- modül yazma
 
+- filename-dirname
+
 ## npm-ornekelri klasörü
 
 19- paket-yukleme

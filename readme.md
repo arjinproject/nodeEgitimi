@@ -57,3 +57,5 @@ temel-js klasörü
 23- filename-dirname
 
 24- dosya-okuma
+
+25- dosya-olusturma-yazma

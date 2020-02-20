@@ -65,3 +65,5 @@ temel-js klasörü
 ## nodejs-http
 
 27- create-http-server
+
+28- bir html dosyasını serverden çalıştırmak

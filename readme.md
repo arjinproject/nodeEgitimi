@@ -59,3 +59,5 @@ temel-js klasörü
 24- dosya-okuma
 
 25- dosya-olusturma-yazma
+
+26- dosya-silme

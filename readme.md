@@ -71,3 +71,7 @@ temel-js klasörü
 29- http istekleri (GET-PORT-PUT-DELETE)
 
 29- basit routing yapısı
+
+## streams-yayınlar
+
+30- video okuma (fs.readStream)

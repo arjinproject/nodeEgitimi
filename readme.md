@@ -42,8 +42,6 @@ temel-js klasörü
 
 18- modül yazma
 
-- filename-dirname
-
 ## npm-ornekelri klasörü
 
 19- paket-yukleme
@@ -53,3 +51,9 @@ temel-js klasörü
 21- script işlemleri ve npm bir alt klasöre kurma
 
 22- events oluşturma tetikleme
+
+## Genel 
+
+23- filename-dirname
+
+24- dosya-okuma

@@ -52,7 +52,7 @@ temel-js klasörü
 
 22- events oluşturma tetikleme
 
-## Genel 
+## Dosya-islemleri
 
 23- filename-dirname
 
